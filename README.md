@@ -21,7 +21,7 @@ Includes optional work:
  * [X] App icon and splash screen
  * [X] Animation of text input 
  * [X] Appearance of tip options when the user starts entering their bill total
- * 
+ 
 Walkthrough of all user stories:
 ![Video Walkthrough](just_the_tip_walkthrough.gif)
 
