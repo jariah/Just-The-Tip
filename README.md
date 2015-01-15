@@ -5,7 +5,7 @@ This iPhone app takes a bill’s total amount and calculates the tip the user sh
 
 **Time spent:** 
 
-6 hours spent
+4 hours spent
 
 **Completed user stories:**
  
